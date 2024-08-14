@@ -16,6 +16,12 @@
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/75e985e0-4113-465b-83f6-b10a638bc598">
 
+3. Tunnelblick
+   <img width="718" alt="image" src="https://github.com/user-attachments/assets/bec86de1-a070-4ac6-901e-0a42bc67969c">
+
+
+   <img width="260" alt="image" src="https://github.com/user-attachments/assets/ea05361e-2f6e-46eb-a388-93eb5a1e799e">
+
 ## 集群连接
 1. 申请开通账号
 2. 校外需要连接vpn
