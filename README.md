@@ -4,8 +4,14 @@
 
 ## vpn账号开通
 1. 需要填写一份文件盖章提交，开通vpn账号。具体待确认。
-2. 在设置中配置vpn。具体参数和视频见https://ustcnet.ustc.edu.cn/2015/0127/c33586a592091/page.htm和https://ustcnet.ustc.edu.cn/2020/0107/c33586a592095/page.htm
+2. 在设置中配置vpn。具体参数和视频见https://ustcnet.ustc.edu.cn/2015/0127/c33586a592091/page.htm
+   和
+   https://ustcnet.ustc.edu.cn/2020/0107/c33586a592095/page.htm
+ 
+  
   步骤见以下截图：
+
+  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ef0a6dce-90bd-458b-a56c-5f04b76a519f">
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/75e985e0-4113-465b-83f6-b10a638bc598">
