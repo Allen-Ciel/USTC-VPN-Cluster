@@ -40,7 +40,8 @@
    
    <img width="600" alt="image" src="https://github.com/user-attachments/assets/bec86de1-a070-4ac6-901e-0a42bc67969c">
 
-   5）会出现如下提示，需要开启系统权限，具体操作见网站教程 https://www.52mac.com/soft/13613-1-1.html。
+   5）会出现如下提示，需要开启系统权限，具体操作见网站教程 https://www.52mac.com/soft/13613-1-1.html
+   。
    
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea05361e-2f6e-46eb-a388-93eb5a1e799e">
 
