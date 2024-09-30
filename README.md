@@ -3,10 +3,12 @@
 
 
 ## vpn账号开通
-1. 需要填写一份文件盖章提交，开通vpn账号。找胡嘉桐老师盖章，然后扫描发给网络信息中心nic@ustc.edu.cn。
-   ![image](https://github.com/user-attachments/assets/94096b42-528c-4beb-9ce0-577c30cbaa23)
+1. 需要填写一份文件盖章提交，开通vpn账号。找HJT老师（学院负责老师）盖章，然后扫描发给网络信息中心nic@ustc.edu.cn。
 
-2. 在设置中配置vpn。
+   ![image](https://github.com/user-attachments/assets/38189222-df00-486b-a6d4-67f90581cdb7)
+
+
+3. 在设置中配置vpn。
    
    2.1 L2TP配置方法。（挂🪜也无法访问外网）
 
@@ -18,7 +20,7 @@
   步骤见以下截图：
 
   
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ef0a6dce-90bd-458b-a56c-5f04b76a519f">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6f623fff-c025-466d-a07c-3ae31c280032">
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/75e985e0-4113-465b-83f6-b10a638bc598">
 
@@ -58,7 +60,9 @@
    
    <img width="358" alt="image" src="https://github.com/user-attachments/assets/d590ce13-8960-4f81-9004-1555c313c9d2">
    
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/90866bed-c2a2-4deb-868d-aee9ec26e2b9">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/01eb0b13-589e-4cd5-b01f-5b22a71a7698">
+
+
 
 ## 集群配置
 1. module配置，每次启动都需要手动module load 模块，我基本只需要anaconda，所以在~/.bashrc添加module load anaconda3
